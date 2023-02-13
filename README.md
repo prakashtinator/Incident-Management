@@ -2,7 +2,7 @@
 Predicting incident priority based on selected attributes
 
 
-## NON-TECHNICAL EXPLANATION OF YOUR PROJECT
+## ABOUT THE PROJECT
 This project shows us how to predict priority of an incoming incident based on several key attributes of the incident.
 This is particularly useful in IT service industry which relies mostly on service and maintenance of software applications
 Being able to predict the priority of incidents based on particular attributes can significantly increase the predictability and resource allocation, which can lead to better resolution time.
